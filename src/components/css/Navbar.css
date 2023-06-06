@@ -1,0 +1,14 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: cornsilk;
+}
+ul{
+    display: flex;
+    align-items: center;
+}
+li{
+    display: flex;
+    list-style: none;
+}

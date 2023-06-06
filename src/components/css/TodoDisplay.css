@@ -1,0 +1,17 @@
+.box{
+    background-color: darkgrey;
+    height: 50vh;
+    width: 50vw;
+    margin: 50px auto;
+    overflow-y: scroll;
+}
+ol{
+    padding: 20px;
+}
+li{
+    margin: 5px;
+    padding: 8px;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+}
